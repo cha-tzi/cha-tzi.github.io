@@ -4,18 +4,18 @@
 
 layout: home
 profile_picture:
-  src: /assets/img/profile-olympus.jpeg
+  src: \assets\img\profile-olympus.jpeg
   alt: website picture
 ---
 
 <p>
   Welcome to my site! 
-
+<br>
   I am Yorgos Chatizhteoklitos a scientific software engineer in one of the biggest data science companies in London.
-
+<br>
   I work in the research data science team, so my work is really varied. At the moment I am building an executable in C++ that does forecasting, and building a website with interactive documentation.
-
+<br>
   I did my masters at Imperial College London, where I learned parallel computing, machine learning and optimisation.
-
+<br>
   In my free time I climb, cycle and cook ! 
 </p>
