@@ -4,7 +4,7 @@
 
 layout: home
 profile_picture:
-  src: /assets/img/profile-olympus.jpg
+  src: /assets/img/profile-olympus.png
   alt: website picture
 ---
 
