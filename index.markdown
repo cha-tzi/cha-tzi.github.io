@@ -23,9 +23,3 @@ profile_picture:
 <p>
   In my free time I climb, cycle and cook !
 </p>
-
-<!-- ![Olumpus test](/assets/img/profile-olympus.png) -->
-
-![Profile test](/assets/img/profile-pic.png)
-
-<!-- ![Profile test back ](\assets\img\profile-pic.jpg) -->
