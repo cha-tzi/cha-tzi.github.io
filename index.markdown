@@ -23,7 +23,3 @@ profile_picture:
 <p>
   In my free time I climb, cycle and cook !
 </p>
-
-  <p>
-    ![Lilika Christmas](/assets/img/lilika_hat.png)
-  </p>
