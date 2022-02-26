@@ -4,7 +4,7 @@
 
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/profile-olympus.jpg
   alt: website picture
 ---
 
@@ -24,7 +24,7 @@ profile_picture:
   In my free time I climb, cycle and cook !
 </p>
 
-![Olumpus test](/assets/img/profile-olympus.png)
+<!-- ![Olumpus test](/assets/img/profile-olympus.png) -->
 
 ![Profile test](/assets/img/profile-pic.png)
 
