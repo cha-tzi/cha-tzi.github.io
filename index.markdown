@@ -28,4 +28,4 @@ profile_picture:
 
 ![Profile test](/assets/img/profile-pic.png)
 
-![Profile test back ](\assets\img\profile-pic.jpg)
+<!-- ![Profile test back ](\assets\img\profile-pic.jpg) -->
