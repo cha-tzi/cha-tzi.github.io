@@ -13,5 +13,4 @@ items:
 This is an example of a "Work" page, displaying your work, your interests, your projects.
 <br />
 <br />
-<!-- 
-[Link to a post]({% link _posts\2022-02-23-welcome-to-jekyll.markdown %}) -->
+ 
