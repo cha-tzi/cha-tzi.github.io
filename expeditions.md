@@ -20,7 +20,3 @@ items:
 This is an example of a "Work" page, displaying your work, your interests, your projects.
 <br />
 <br />
-
-
-<!-- [Link to a permalink]({% link /about/ %})
-[Link to a page]({% link blog.markdown %}) -->
