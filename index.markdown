@@ -22,4 +22,6 @@ profile_picture:
 </p>
 <p>
   In my free time I climb, cycle and cook !
+
+  ![image tooltip here](/assets/img/profile-olympus.jpg)
 </p>
