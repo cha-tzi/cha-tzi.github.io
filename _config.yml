@@ -39,6 +39,7 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
+    - name: Expeditions
     - name: Blog  # <-- blog.md
     ##- name: Whatever  # <-- whatever.md
     
